@@ -1,0 +1,198 @@
+1	Activation Function
+2	Activation Function Layer
+3	Adagrad Optimizer
+4	Adam Optimizer
+5	Adaptive Learning Rate
+6	Adversarial Examples
+7	Adversarial Training
+8	Anchor Box
+9	Artificial Neural Network (ANN)
+10	Attention Mechanism
+11	Augmentation
+12	Autoencoder
+13	Backpropagation
+14	Bag-of-Words
+15	Batch Normalization
+16	Batch Size
+17	Beam Search
+18	Bias
+19	Bidirectional LSTM
+20	BiLSTM (Bidirectional LSTM)
+21	Binary Classification
+22	Bottleneck Layer
+23	Categorical Cross-Entropy
+24	Classification
+25	Clustering
+26	CNN (Convolutional Neural Network)
+27	Confidence Score
+28	Contextual Word Embedding
+29	Convolution
+30	Convolutional Neural Network (CNN)
+31	Cross-Entropy Loss
+32	Cross-Validation
+33	Data Augmentation
+34	Data Normalization
+35	Data Preprocessing
+36	Decision Boundary
+37	Dense Layer
+38	Depthwise Convolution
+39	Dimensionality Reduction
+40	Dropout
+41	Dropout Layer
+42	Dropout Rate
+43	Early Stopping
+44	Embedding Layer
+45	Embedding Matrix
+46	Encoder-Decoder
+47	Ensemble Learning
+48	Epoch
+49	Error Function
+50	Exponential Linear Unit (ELU)
+51	Feature Engineering
+52	Feature Extraction
+53	Feedforward Network
+54	Feedforward Neural Network
+55	Filter
+56	Fine-tuning
+57	Flattening Layer
+58	Forward Propagation
+59	Fully Connected Layer
+60	GAN (Generative Adversarial Network)
+61	Gated Recurrent Unit (GRU)
+62	Generative Adversarial Network (GAN)
+63	Global Average Pooling
+64	Global Average Pooling Layer
+65	Gradient
+66	Gradient Descent
+67	Grid Search
+68	Hardmax
+69	Hidden Layer
+70	Hot Encoding
+71	Hyperbolic Tangent (Tanh)
+72	Hyperparameter
+73	Hyperparameter Tuning
+74	ImageNet
+75	Imputation
+76	Inference
+77	Initialization
+78	Input Layer
+79	K-Means Clustering
+80	K-Nearest Neighbors (KNN)
+81	Kernel
+82	Kullback-Leibler Divergence
+83	L1 Regularization
+84	L2 Regularization
+85	Label
+86	Latent Variable
+87	Leaky ReLU
+88	Learning Rate
+89	Learning Rate Decay
+90	Learning Rate Scheduler
+91	Linear Regression
+92	Local Response Normalization
+93	Log Loss
+94	Logit
+95	Long Short-Term Memory (LSTM)
+96	Loss Curve
+97	Loss Function
+98	Manhattan Distance
+99	Markov Decision Process (MDP)
+100	Max Pooling
+101	Max Pooling Layer
+102	Mean Absolute Error (MAE)
+103	Mean Squared Error (MSE)
+104	Metrics
+105	Mini-Batch Gradient Descent
+106	Minibatch
+107	Model Architecture
+108	Model Evaluation
+109	Model Selection
+110	Multiclass Classification
+111	Multilayer Perceptron (MLP)
+112	Multinomial Distribution
+113	Multinomial Logistic Regression
+114	Multinomial Naive Bayes
+115	Multinomial Sampling
+116	Multivariate Regression
+117	Natural Language Processing (NLP)
+118	Negative Log-Likelihood (NLL)
+119	Network Architecture
+120	Neural Network
+121	Neuron
+122	Normalization
+123	Object Detection
+124	Objective Function
+125	One-Hot Encoding
+126	Optimization Algorithm
+127	Optimizer
+128	Output Layer
+129	Overfitting
+130	Padding
+131	Parameter
+132	Parameter Initialization
+133	Pooling Layer
+134	Precision
+135	Prediction
+136	Pretrained Model
+137	Probabilistic Model
+138	Probability Density Function (PDF)
+139	Probability Distribution
+140	Quadratic Cost Function
+141	Random Forest
+142	Random Initialization
+143	Random Search
+144	RBF Kernel
+145	Recall
+146	Recurrent Layer
+147	Recurrent Neural Network (RNN)
+148	Regression Analysis
+149	Regularization
+150	Reinforcement Learning
+151	ReLU (Rectified Linear Unit)
+152	ReLU Layer
+153	Residual Connection
+154	Residual Network (ResNet)
+155	Ridge Regression
+156	Root Mean Square Error (RMSE)
+157	Root Mean Square Propagation (RMSProp)
+158	Sequence-to-Sequence
+159	Sigmoid Function
+160	Sigmoid Layer
+161	Sigmoid Neuron
+162	Similarity Metric
+163	Softmax
+164	Softmax Activation
+165	Softmax Function
+166	Softmax Layer
+167	Spatial Dropout
+168	Spatial Pooling
+169	Squared Error Loss
+170	Stochastic Gradient Descent (SGD)
+171	Stochasticity
+172	Supervised Learning
+173	Support Vector Machine (SVM)
+174	Tanh (Hyperbolic Tangent)
+175	Target Variable
+176	Temporal Convolutional Network (TCN)
+177	Tensor
+178	Test Set
+179	Training Accuracy
+180	Training Data
+181	Training Epoch
+182	Training F1 Score
+183	Training Loss
+184	Training Precision
+185	Training Recall
+186	Training Set
+187	Transfer Learning
+188	Transposed Convolution
+189	Underfitting
+190	Unsupervised Learning
+191	Validation Data
+192	Validation Set
+193	Variance
+194	VGG Network
+195	Weight Initialization
+196	Zero Padding
+197	Zero-Inflated Model
+198	Zero-Shot Learning

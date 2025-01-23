@@ -1,0 +1,101 @@
+Evaluation Metrics
+Accuracy
+Precision
+Recall
+F1 Score
+Confusion Matrix
+ROC Curve (Receiver Operating Characteristic Curve)
+AUC-ROC (Area Under the ROC Curve)
+Precision-Recall Curve
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+R-squared (Coefficient of Determination)
+Adjusted R-squared
+Mean Absolute Percentage Error (MAPE)
+Mean Absolute Scaled Error (MASE)
+Root Mean Squared Logarithmic Error (RMSLE)
+Mean Squared Percentage Error (MSPE)
+Explained Variance Score
+Mean Bias Deviation (MBD)
+Median Absolute Error (MedAE)
+Informedness (Youden's Index)
+Markedness
+Matthews Correlation Coefficient (MCC)
+Jaccard Index
+Dice Coefficient
+Sørensen-Dice Coefficient
+Cohen's Kappa
+Cohen's Kappa (Weighted)
+Hamming Loss
+Macro F1 Score
+Micro F1 Score
+Weighted F1 Score
+Geometric Mean
+Logarithmic Loss (Log Loss)
+Brier Score
+Mean Squared Logarithmic Error (MSLE)
+Huber Loss
+Quantile Loss
+Hinge Loss
+Kullback-Leibler Divergence (KL Divergence)
+Cross-Entropy Loss
+Negative Log-Likelihood (NLL)
+Area Under the Precision-Recall Curve (AUC-PR)
+Logarithmic Loss (Log Loss)
+Cohen's Kappa (Quadratic Weighted)
+Fowlkes-Mallows Index
+Gini Coefficient
+Silhouette Score
+Adjusted Mutual Information (AMI)
+Normalized Mutual Information (NMI)
+Adjusted Rand Index (ARI)
+Variation of Information (VI)
+Homogeneity Score
+Completeness Score
+V-Measure
+Mutual Information Score
+Bregman Divergence
+Hellinger Distance
+Bhattacharyya Distance
+Jensen-Shannon Divergence
+K-L Divergence
+Jaccard Distance
+Hamming Distance
+Cosine Similarity
+Euclidean Distance
+Manhattan Distance
+Minkowski Distance
+Mahalanobis Distance
+Bray-Curtis Distance
+Canberra Distance
+Chebyshev Distance
+Earth Mover's Distance
+Wasserstein Distance
+Squared Euclidean Distance
+Jensen-Shannon Distance
+Hellinger Distance
+Bhattacharyya Distance
+Cosine Distance
+Tanimoto Coefficient
+Levenshtein Distance
+Dice Similarity Coefficient
+Jaccard Similarity Coefficient
+Overlap Coefficient
+Normalized Compression Distance (NCD)
+Manhattan Similarity
+Mahalanobis Similarity
+Minkowski Similarity
+Canbera Similarity
+Bray-Curtis Similarity
+Jaccard Index (Coefficient)
+Average Precision (AP)
+Mean Average Precision (MAP)
+Precision at K (P@K)
+Recall at K (R@K)
+Precision-Recall Gain
+Precision-Recall AUC
+ROC AUC Micro
+ROC AUC Macro
+ROC AUC Weighted
+Outlier Detection Rate
